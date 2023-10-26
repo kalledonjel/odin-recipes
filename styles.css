@@ -2,4 +2,9 @@ body {
     font-family: Helvetica, Arial, sans-serif; 
     color: rgb(71, 71, 71);
     font-size: 1.1rem;
-    line-height: 1.7rem; }
+    line-height: 1.7rem;
+    padding: 50px; }
+
+img { 
+    height: auto;
+    max-width: 100%;}
